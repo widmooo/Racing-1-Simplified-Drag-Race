@@ -11,4 +11,3 @@ def drag_race(length, anna, bob):
         print("Bob should win in" + str(bob_time_i) + "seconds")
     elif bob_time_i == anna_time_i:
         print("It's a draw")
-
